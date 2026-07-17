@@ -5,6 +5,10 @@
 
 ---
 
+* https://github.com/ericrenone/ARDI-Albert-Ramanujan-Deterministic-Intelligence
+* https://github.com/ericrenone/The-Jordan-Leech-Unified-Framework
+---
+
 ## Executive Overview
 
 ARDI is an engineering framework for building learning systems that instantiate the mathematical optimum at every layer:
